@@ -17,3 +17,4 @@ openpyxl==3.1.5
 arabic-reshaper==3.0.1
 python-bidi==0.6.10
 anthropic==0.111.0
+python-docx==1.1.0
